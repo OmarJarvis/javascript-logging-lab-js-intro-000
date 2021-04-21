@@ -1,2 +1,2 @@
 console.error("HALP");
-console
+console.log("Omar is a great coder");
